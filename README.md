@@ -1,5 +1,15 @@
 ### Hi there 👋
+I am Gian Claudio Scarafini
 
+
+#### Get in touch woth me via:
+
+<a href="https://www.linkedin.com/in/gian-claudio-scarafini-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=github&style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/10179790/gscarafini">
+    <img src="https://img.shields.io/badge/stackoverflow-f48226.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge" />
+</a>
 <!--
 **GianClaudioScarafini/GianClaudioScarafini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
