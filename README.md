@@ -2,7 +2,7 @@
 I am Gian Claudio Scarafini
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianClaudioScarafini)](https://github.com/GianClaudioScarafini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianClaudioScarafini&layout=donut-vertical)](https://github.com/GianClaudioScarafini/github-readme-stats)
 
 #### Get in touch woth me via:
 
