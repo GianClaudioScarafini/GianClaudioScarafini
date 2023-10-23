@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on OpenSourve Projects 
 - 🤔 I’m looking for help with DataBase 
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My heritage spans four different countries across three different continents.
+
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianClaudioScarafini&layout=donut-vertical)](https://github.com/GianClaudioScarafini/github-readme-stats)
