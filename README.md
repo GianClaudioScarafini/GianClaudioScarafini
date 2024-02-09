@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in the construction industry and Developing tool 
 - 🌱 I’m currently learning Full Stack Development {Ruby/ JavaScript / Python / .NET / HTML CSS} 
 - 👯 I’m looking to collaborate on OpenSourve Projects 
-- 🤔 I’m looking for help with DataBase 
+- 🤔 I’m looking for help with finding connections between construction and Web Dev
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: My heritage spans four different countries across three different continents.
 
