@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
 	    <li><b>Code Editor:</b> VSCode </li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Obsidian, Bitwarden</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Obsidian</li>
 	    <li><b>To Stay Updated:</b>Hacker News</li>
 	</ul>
 </details>
